@@ -32,5 +32,7 @@
 Это нужно сделать только один раз.
 
  git config --global user.name "John Doe"
- 
+
  git config --global user.email johndoe@example.com 
+
+ # Создание Git-репозитория.
